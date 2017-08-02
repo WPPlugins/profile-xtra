@@ -1,0 +1,11 @@
+/*** Shortcode styles ***/
+.profilextras{}
+.authorxtra{ margin-bottom:40px;}
+.profilextra_n{}
+.profilextra_i{}
+.profilextra_d{}
+.profilextra_s{}
+.profilextra_s a {}
+.profilextra_s a i {}
+.profilextra_s a span {}
+ a > span.etal {font-size: 80%;text-transform: none;font-style: italic;}
